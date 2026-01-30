@@ -1,7 +1,10 @@
-<p align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20There&fontSize=90" />
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There,%20I'm%20Noel%20Ali&fontSize=70" />
 </p>
+
+<h1 align="center">
+  Let's connect and build something amazing together!
+</h1>
 
 <!--
 **noelams/noelams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
