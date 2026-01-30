@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20there&fontSize=90)
+<p align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20There&fontSize=90" />
+</p>
 
 <!--
 **noelams/noelams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
