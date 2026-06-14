@@ -42,6 +42,8 @@
   <img src="https://cdn.simpleicons.org/expo/ffffff" height="45" width="45"/>   
   <img src="https://cdn.simpleicons.org/express/ffffff" height="45" width="45"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="45" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="45" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="45" width="45"/>         
 </p>
 
 
