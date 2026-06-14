@@ -23,7 +23,7 @@
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,py,cpp,c,git,github,nodejs,npm,mongodb,express,flutter&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,py,cpp,c,git,github,nodejs,npm,mongodb,express,flutter,expo&theme=light" />
 </p>
 <!-- <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="45" width="45"/>
