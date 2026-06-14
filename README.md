@@ -12,7 +12,14 @@
 </a>
 <a href="https://www.instagram.com/noel_ali_23/" target="_blank">
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46e7e92a-d6f8-4757-aab2-e68b7fff707f" />
-
+</a>
+<a href="https://x.com/Alinoel17" target="_blank">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc82fc23-6496-43c7-8686-964cfee75db2" />
+</a>
+<a href="mailto:noelams03@gmail.com" target="_blank">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dbacaf3b-c5bd-4eba-8cd6-627c63d5bca2" />
+</a>
+</p>
 
 <h1 align="center">
  Some tools I have used and learnt
@@ -23,15 +30,6 @@
   <i class="devicon-javascript-plain colored"></i>
 </p>
 
-
-</a>
-<a href="https://x.com/Alinoel17" target="_blank">
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc82fc23-6496-43c7-8686-964cfee75db2" />
-</a>
-<a href="mailto:noelams03@gmail.com" target="_blank">
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dbacaf3b-c5bd-4eba-8cd6-627c63d5bca2" />
-</a>
-</p>
 
 
 <!--
