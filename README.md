@@ -50,7 +50,7 @@
 
 ![Noel's GitHub stats](https://github-readme-stats-ofk3.vercel.app/api?username=noelams&theme=transparent&show_icons=true)
 
-![Snake animation](https://raw.githubusercontent.com/noelams/noelams/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/noelams/noelams/blob/output/github-contribution-grid-snake.svg)
 
 
 
