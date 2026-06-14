@@ -44,11 +44,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="45" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="45" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="45" width="45"/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45" width="45"/>
           
 </p>
 
-[![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelams)](https://github.com/anuraghazra/github-readme-stats)
+![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelams&theme=transparent&show_icons=true)
 
 
 
