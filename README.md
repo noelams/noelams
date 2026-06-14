@@ -5,6 +5,23 @@
 <h1 align="center">
   Let's connect and build something amazing together!
 </h1>
+<p>
+  
+<a href="https://www.linkedin.com/in/inalegwu-noel-ali-030049239/" target="_blank">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/78a81db5-e7b6-4f95-ad56-426cd5cb01d4" />
+</a>
+<a href="https://www.instagram.com/noel_ali_23/" target="_blank">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/46e7e92a-d6f8-4757-aab2-e68b7fff707f" />
+
+</a>
+<a href="https://x.com/Alinoel17" target="_blank">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fc82fc23-6496-43c7-8686-964cfee75db2" />
+</a>
+<a href="mailto:noelams03@gmail.com" target="_blank">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dbacaf3b-c5bd-4eba-8cd6-627c63d5bca2" />
+</a>
+</p>
+
 
 <!--
 **noelams/noelams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
