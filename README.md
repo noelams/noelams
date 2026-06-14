@@ -48,7 +48,7 @@
           
 </p>
 
-![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelams&theme=transparent&show_icons=true)
+![Noel's GitHub stats](https://github-readme-stats-ofk3.vercel.app/api?username=noelams&theme=transparent&show_icons=true)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
