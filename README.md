@@ -50,7 +50,11 @@
 
 ![Noel's GitHub stats](https://github-readme-stats-ofk3.vercel.app/api?username=noelams&theme=transparent&show_icons=true)
 
-![Snake animation](https://github.com/noelams/noelams/blob/output/github-contribution-grid-snake.svg)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+</picture>
 
 
 
